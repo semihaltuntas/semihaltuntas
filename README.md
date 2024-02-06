@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">🔥   My Status : Java Developer</h3>
+<h3 align="left">🔥   My Status : Junior Java Developer</h3>
 
 ###
 
